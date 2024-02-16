@@ -40,10 +40,17 @@ The main objectives of this project are to practice dictionary manipulation, ite
 Additionally, the project offers opportunities for further practice and extension, such as implementing functions to add new words played by players, updating point totals dynamically, and enhancing the dictionary to handle lowercase inputs for letters. These extensions provide avenues for reinforcing Python programming concepts and improving code efficiency and functionality.
 https://github.com/bencobb7/Codecademy/blob/main/python/Scrabble
 
-Project Name 3
+Hacking the Fender
 
-Brief description of the project and its objectives.
-Key concepts and skills demonstrated.
+This project simulates a scenario where the user, acting as a cybersecurity agent, is tasked with retrieving compromised usernames and passwords, notifying the boss of mission success, and obscuring the password data to thwart potential security breaches.
+
+The tasks involve:
+
+Reading compromised usernames and passwords from a CSV file and storing them in a list.
+Writing the compromised usernames to a text file.
+Notifying the boss of mission success by encoding a message in JSON format.
+Scrambling the password data and creating a new file with a hacker's signature to replace the original password file.
+Through this project, users gain hands-on experience with file input/output operations, CSV parsing, JSON encoding, and basic file manipulation techniques. It provides insight into practical cybersecurity measures such as data retrieval, encryption, and obfuscation to safeguard sensitive information and mitigate security risks.
 Link to Project Code
 Why Python?
 Python is a versatile and powerful programming language known for its readability, simplicity, and flexibility. These projects showcase my ability to leverage Python to solve real-world problems, manipulate data, and build practical applications.
