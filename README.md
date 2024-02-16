@@ -54,10 +54,10 @@ Through this project, users gain hands-on experience with file input/output oper
 Link to Project Code
 Why Python?
 Python is a versatile and powerful programming language known for its readability, simplicity, and flexibility. These projects showcase my ability to leverage Python to solve real-world problems, manipulate data, and build practical applications.
+https://github.com/bencobb7/Codecademy/blob/main/python/HackTheFender
 
-Get in Touch
+# Get in Touch
 📫 If you have any questions about my projects or would like to connect, feel free to reach out to me:
 
-📧 Email: Your Email Address
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/benjamin-cobb-/
 Let's keep coding and learning together! 🚀
