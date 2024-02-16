@@ -1,7 +1,7 @@
-Codecademy Python Projects Repository 🐍
+#Codecademy Python Projects Repository 🐍
 Welcome to my Codecademy Python Projects repository! Here, you'll find a collection of Python projects that I've completed as part of my learning journey on Codecademy. These projects cover a range of topics and skills, demonstrating my proficiency and dedication to mastering Python programming.
 
-Projects Overview
+#Projects Overview
 Thread Shed
 
 This project involves cleaning and analyzing transaction data from the Thread Shed, a local sewing hobby shop. The shop's outdated register system stores all transaction information in a single, unwieldy string called daily_sales.
@@ -25,8 +25,9 @@ Determine the quantity of each color thread sold by splitting multi-colored entr
 Define a function to count the occurrences of a specific color thread.
 Print the count of each color thread sold.
 This project provides hands-on experience in data manipulation, string operations, list handling, and basic data analysis using Python, demonstrating practical applications of programming skills in a business context.
+https://github.com/bencobb7/Codecademy/blob/main/python/ThreadShed
 
-Project Name 2
+Scrabble
 
 Brief description of the project and its objectives.
 Key concepts and skills demonstrated.
