@@ -1,7 +1,7 @@
-#Codecademy Python Projects Repository 🐍
+# Codecademy Python Projects Repository 🐍
 Welcome to my Codecademy Python Projects repository! Here, you'll find a collection of Python projects that I've completed as part of my learning journey on Codecademy. These projects cover a range of topics and skills, demonstrating my proficiency and dedication to mastering Python programming.
 
-#Projects Overview
+# Projects Overview
 Thread Shed
 
 This project involves cleaning and analyzing transaction data from the Thread Shed, a local sewing hobby shop. The shop's outdated register system stores all transaction information in a single, unwieldy string called daily_sales.
