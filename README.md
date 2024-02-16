@@ -38,6 +38,8 @@ Calculating the total points earned by each player in the game.
 The main objectives of this project are to practice dictionary manipulation, iteration, and function creation in Python. By completing these tasks, you'll gain experience in handling structured data and performing calculations based on predefined rules, such as Scrabble point values for letters.
 
 Additionally, the project offers opportunities for further practice and extension, such as implementing functions to add new words played by players, updating point totals dynamically, and enhancing the dictionary to handle lowercase inputs for letters. These extensions provide avenues for reinforcing Python programming concepts and improving code efficiency and functionality.
+https://github.com/bencobb7/Codecademy/blob/main/python/Scrabble
+
 Project Name 3
 
 Brief description of the project and its objectives.
